@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/meiyanthan.github.io/reac-monster-rolodex/static/css/main.c154c929.chunk.css",
-    "main.js": "/meiyanthan.github.io/reac-monster-rolodex/static/js/main.395d48bb.chunk.js",
-    "main.js.map": "/meiyanthan.github.io/reac-monster-rolodex/static/js/main.395d48bb.chunk.js.map",
-    "runtime-main.js": "/meiyanthan.github.io/reac-monster-rolodex/static/js/runtime-main.eb97a24a.js",
-    "runtime-main.js.map": "/meiyanthan.github.io/reac-monster-rolodex/static/js/runtime-main.eb97a24a.js.map",
-    "static/js/2.001bb2de.chunk.js": "/meiyanthan.github.io/reac-monster-rolodex/static/js/2.001bb2de.chunk.js",
-    "static/js/2.001bb2de.chunk.js.map": "/meiyanthan.github.io/reac-monster-rolodex/static/js/2.001bb2de.chunk.js.map",
-    "static/js/3.2e158301.chunk.js": "/meiyanthan.github.io/reac-monster-rolodex/static/js/3.2e158301.chunk.js",
-    "static/js/3.2e158301.chunk.js.map": "/meiyanthan.github.io/reac-monster-rolodex/static/js/3.2e158301.chunk.js.map",
-    "index.html": "/meiyanthan.github.io/reac-monster-rolodex/index.html",
-    "static/css/main.c154c929.chunk.css.map": "/meiyanthan.github.io/reac-monster-rolodex/static/css/main.c154c929.chunk.css.map",
-    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/meiyanthan.github.io/reac-monster-rolodex/static/js/2.001bb2de.chunk.js.LICENSE.txt"
+    "main.css": "/meiyanthan.github.io/react-monster-rolodex/static/css/main.c154c929.chunk.css",
+    "main.js": "/meiyanthan.github.io/react-monster-rolodex/static/js/main.395d48bb.chunk.js",
+    "main.js.map": "/meiyanthan.github.io/react-monster-rolodex/static/js/main.395d48bb.chunk.js.map",
+    "runtime-main.js": "/meiyanthan.github.io/react-monster-rolodex/static/js/runtime-main.a22a6e98.js",
+    "runtime-main.js.map": "/meiyanthan.github.io/react-monster-rolodex/static/js/runtime-main.a22a6e98.js.map",
+    "static/js/2.001bb2de.chunk.js": "/meiyanthan.github.io/react-monster-rolodex/static/js/2.001bb2de.chunk.js",
+    "static/js/2.001bb2de.chunk.js.map": "/meiyanthan.github.io/react-monster-rolodex/static/js/2.001bb2de.chunk.js.map",
+    "static/js/3.2e158301.chunk.js": "/meiyanthan.github.io/react-monster-rolodex/static/js/3.2e158301.chunk.js",
+    "static/js/3.2e158301.chunk.js.map": "/meiyanthan.github.io/react-monster-rolodex/static/js/3.2e158301.chunk.js.map",
+    "index.html": "/meiyanthan.github.io/react-monster-rolodex/index.html",
+    "static/css/main.c154c929.chunk.css.map": "/meiyanthan.github.io/react-monster-rolodex/static/css/main.c154c929.chunk.css.map",
+    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/meiyanthan.github.io/react-monster-rolodex/static/js/2.001bb2de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb97a24a.js",
+    "static/js/runtime-main.a22a6e98.js",
     "static/js/2.001bb2de.chunk.js",
     "static/css/main.c154c929.chunk.css",
     "static/js/main.395d48bb.chunk.js"
